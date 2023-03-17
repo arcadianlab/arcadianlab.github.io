@@ -16,6 +16,14 @@ google.com, pub-4590027837823077, DIRECT, f08c47fec0942fa0
 
 
 
+
+#Google Ads Manager Appbroda
+
+google.com, pub-1750257043948708, DIRECT, f08c47fec0942fa0																									
+
+
+
+
 #Meta
 
 facebook.com, 362922640886928, DIRECT, c3e20eee3f780d68
