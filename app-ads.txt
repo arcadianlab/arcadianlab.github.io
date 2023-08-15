@@ -3661,4 +3661,12 @@ display.io,173162,DIRECT
 axonix.com, 59089, direct, bc385f2b4a87b721
 video.unrulymedia.com,123476257,RESELLER
 improvedigital.com,2276,RESELLER
+video.unrulymedia.com, 676914333, RESELLER
+rhythmone.com, 676914333, RESELLER, a670c89d4a324e47
+improvedigital.com, 1699, RESELLER
+
+contextweb.com, 563086, DIRECT, 89ff185a4c4e857c
+inmobi.com, 5b653e8fbb1542ad83a14e66bc5c84bd, RESELLER
+almaty-digital.com, a11lm2t1356y7d9i, DIRECT
+
 # AdInMo app-ads.txt END
