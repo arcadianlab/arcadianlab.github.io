@@ -3090,7 +3090,6 @@ advlion.com, 3108, RESELLER
 
 
 
-
 # AdInMo app-ads.txt BEGIN
 # SmartyAds
 smartyads.com, 1607, DIRECT, fd2bde0ff2e62c5d
@@ -3468,9 +3467,6 @@ opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3
 improvedigital.com, 1532, RESELLER
 mars.media, 1010443, RESELLER, 8624339f102fb076
 movve.com, 4350252, RESELLER
-# Xandr
-xandr.com, 15239, DIRECT
-appnexus.com, 3567, DIRECT, f5ab79cb980f11d1
 # Aceex
 aceex.io, 1314, DIRECT, b1cf3c874d5c6682
 xandr.com, 13167, RESELLER
@@ -3545,12 +3541,13 @@ openx.com, 543878511, RESELLER, 6a698e2ec38604c6
 danoler.com, 170853, RESELLER, 5d24754b175j2mde
 kelmak.com, 8824, RESELLER, 35jf639akfl3854nh
 taipeidigital.com, 1122, DIRECT
-almaty-digital.com, a11lm2t1356y7d9i, DIRECT, g2it3241165al22r5
 rtb-mix.com, 198711, RESELLER
-inmobi.com, 5b653e8fbb1542ad83a14e66bc5c84bd, RESELLER, 83e75a7ae333ca9d
 smartadserver.com, 4478, RESELLER
 advlion.com, 3251, DIRECT
 screencore.io, 85, DIRECT, a272bc30660e7ec7
+contextweb.com, 563086, DIRECT, 89ff185a4c4e857c
+inmobi.com, 5b653e8fbb1542ad83a14e66bc5c84bd, RESELLER
+almaty-digital.com, a11lm2t1356y7d9i, DIRECT
 # HAX Media Partners
 hax.ortb.net, 655913, RESELLER
 pubmatic.com, 161401, RESELLER, 5d62403b186f2ace
@@ -3563,6 +3560,20 @@ adform.com, 2795, RESELLER
 loopme.com, 11426, RESELLER, 6c8d5f95897a5a3b
 video.unrulymedia.com, 3563866356, DIRECT
 consumable.com, 2001482, DIRECT, aefcd3d2f45b5070
+video.unrulymedia.com, 676914333, RESELLER
+rhythmone.com, 676914333,RESELLER, a670c89d4a324e47
+advertising.com, 23089, RESELLER
+advertising.com, 28605, RESELLER
+appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
+improvedigital.com, 1699, RESELLER
+loopme.com, 9718, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161058, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161335, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 13918, RESELLER, 0bfd66d529a55807
+synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
+yahoo.com, 59244, RESELLER
 # Clear Tech
 cmt.ortb.net, 574264795, RESELLER
 pubmatic.com, 161401, RESELLER, 5d62403b186f2ace
@@ -3661,12 +3672,10 @@ display.io,173162,DIRECT
 axonix.com, 59089, direct, bc385f2b4a87b721
 video.unrulymedia.com,123476257,RESELLER
 improvedigital.com,2276,RESELLER
-video.unrulymedia.com, 676914333, RESELLER
-rhythmone.com, 676914333, RESELLER, a670c89d4a324e47
-improvedigital.com, 1699, RESELLER
+# Xandr
+xandr.com, 15239, DIRECT
+appnexus.com, 3567, DIRECT, f5ab79cb980f11d1
+adinmo.com, 50c92bb7-73d6-46f2-921b-57ffdbdd6a8a, DIRECT
 
-contextweb.com, 563086, DIRECT, 89ff185a4c4e857c
-inmobi.com, 5b653e8fbb1542ad83a14e66bc5c84bd, RESELLER
-almaty-digital.com, a11lm2t1356y7d9i, DIRECT
 
 # AdInMo app-ads.txt END
