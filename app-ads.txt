@@ -26,7 +26,9 @@ google.com, pub-1750257043948708, DIRECT, f08c47fec0942fa0
 pubmatic.com, 163078, RESELLER, 5d62403b186f2ace			
 appbroda.com, 995, DIRECT
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
-google.com, pub-5988374867572426, DIRECT, f08c47fec0942fa0																						
+google.com, pub-5988374867572426, DIRECT, f08c47fec0942fa0	
+google.com, pub-7556101940282518, DIRECT, f08c47fec0942fa0
+google.com, pub-5703943208094215, DIRECT, f08c47fec0942fa0																					
 
 #Google Ads Manager reklamup
 
