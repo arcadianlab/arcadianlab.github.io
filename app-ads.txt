@@ -3090,8 +3090,6 @@ advlion.com, 3108, RESELLER
 
 #AdInMo
 
-
-
 # AdInMo app-ads.txt BEGIN
 # SmartyAds
 smartyads.com, 1607, DIRECT, fd2bde0ff2e62c5d
@@ -3518,7 +3516,7 @@ amxrtb.com, 105199467, DIRECT
 criteo.com, B-071797, DIRECT, 9fac4a4a87c2a44f
 # Unruly
 video.unrulymedia.com, 824843380, RESELLER
-advertising.com, 23089, RESELLER 
+advertising.com, 23089, RESELLER
 advertising.com, 28605, RESELLER
 aniview.com, 603f65a2e291680ef30af9c7, RESELLER, 78b21b97965ec3f8
 appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
@@ -3537,7 +3535,7 @@ rubiconproject.com, 15268, RESELLER
 synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
 yahoo.com, 59244, RESELLER
 loopme.com, 9718, RESELLER, 6c8d5f95897a5a3b
-Improvedigital.com, 1699, RESELLER
+improvedigital.com, 1699, RESELLER
 openx.com, 543878511, RESELLER, 6a698e2ec38604c6
 # Almaaty Digital
 danoler.com, 170853, RESELLER, 5d24754b175j2mde
@@ -3677,8 +3675,14 @@ improvedigital.com,2276,RESELLER
 # Xandr
 xandr.com, 15239, DIRECT
 appnexus.com, 3567, DIRECT, f5ab79cb980f11d1
+# Prequel TV
+prequel.tv,520, RESELLER
+xandr.com, 15059, RESELLER
+smartclip.net, 13039, RESELLER
+video.unrulymedia.com, 960362640, RESELLER
+conversantmedia.com, 100432, RESELLER, 03113cd04947736d
 adinmo.com, 50c92bb7-73d6-46f2-921b-57ffdbdd6a8a, DIRECT
-
+# AdInMo app-ads.txt END
 
 # AdInMo app-ads.txt END
 
