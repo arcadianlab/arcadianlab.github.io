@@ -32,7 +32,11 @@ google.com, pub-5703943208094215, DIRECT, f08c47fec0942fa0
 google.com, pub-9148276669711667, DIRECT, f08c47fec0942fa0
 google.com, pub-2581580432758105, DIRECT, f08c47fec0942fa0
 google.com, pub-5733536880514182, DIRECT, f08c47fec0942fa0
-google.com, pub-4207440646744714, DIRECT, f08c47fec0942fa0																	
+google.com, pub-4207440646744714, DIRECT, f08c47fec0942fa0			
+google.com, pub-6748691504094555, DIRECT, f08c47fec0942fa0
+google.com, pub-5315056051096936, DIRECT, f08c47fec0942fa0
+google.com, pub-2898944450209503, DIRECT, f08c47fec0942fa0
+google.com, pub-4686678442521364, DIRECT, f08c47fec0942fa0
 
 #Google Ads Manager reklamup
 
