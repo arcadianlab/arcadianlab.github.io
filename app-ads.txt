@@ -37,6 +37,8 @@ google.com, pub-6748691504094555, DIRECT, f08c47fec0942fa0
 google.com, pub-5315056051096936, DIRECT, f08c47fec0942fa0
 google.com, pub-2898944450209503, DIRECT, f08c47fec0942fa0
 google.com, pub-4686678442521364, DIRECT, f08c47fec0942fa0
+appbroda.com, 10002, DIRECT
+google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 
 #Google Ads Manager reklamup
 
