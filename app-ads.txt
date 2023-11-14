@@ -2899,12 +2899,8 @@ advlion.com, 3054, RESELLER
 advlion.com, 3108, RESELLER
 
 
+# =================================================== AdInMo ===========================================================
 
-
-
-
-
-# =================================================== dInMo app-ads.txt BEGIN
 
 # SmartyAds
 smartyads.com, 1607, DIRECT, fd2bde0ff2e62c5d
@@ -3528,10 +3524,7 @@ conversantmedia.com, 100432, RESELLER, 03113cd04947736d
 adinmo.com, 50c92bb7-73d6-46f2-921b-57ffdbdd6a8a, DIRECT
 
 
-# AdInMo app-ads.txt END
-
-
-# Adverty 
+#=========================================================== Adverty =========================================================== 
 
 
 adverty.com, 1054, DIRECT, 2b1a2f9cd997fcab
