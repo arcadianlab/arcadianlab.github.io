@@ -32,7 +32,74 @@ google.com, pub-2013237736074652, DIRECT, f08c47fec0942fa0
 #=================================================== Verve Group Europe =================================================== 
 
 
-pubnative.net, 1234567, DIRECT, d641df8625486a7b
+lkqd.net, 1407, DIRECT, 59c49fa9598a0117
+pubnative.net, 1009193, DIRECT, d641df8625486a7b
+pubmatic.com, 161144, RESELLER, 5d62403b186f2ace
+App-stock.com, 317847, RESELLER
+adelement.com, 42001, RESELLER
+rhebus.works, 3865122407, RESELLER
+bold-win.com, 147, RESELLER, 71746737d0bab951
+adpixelgroup.com, 28212, RESELLER
+adpixelgroup.com, 28213, RESELLER
+eskimi.com, 2020000009, RESELLER
+myfeature.tv, 3b1033e428f84e9aae82, RESELLER
+start.io, pbn, RESELLER
+sharethrough.com, 77240395, RESELLER, d53b998a7bd4ecd2
+thunder-monetize.com, 3588802677, RESELLER
+omnifytv.com, d5a3a5930fdc446da59b50688d96a372, RESELLER
+blis.com, 137, RESELLER, 61453ae19a4b73f4
+brightcom.com, 20372, RESELLER
+Limpid.tv, 203706, RESELLER
+lemmatechnologies.com, 772, RESELLER, 7829010c5bebd1fb #LEMMA
+iqzone.com, d2e0f8e604576d3403d193e3c28b0dcf, RESELLER
+tubia.com, 40103, RESELLER
+beapup.com, 658874, RESELLER
+keenkale.com, 94044, RESELLER, 6c1c00b269ccdfa4
+mediaverse.ai, 302152862, RESELLER
+smartadserver.com, 4083, RESELLER
+bematterfull.com, 85470298878, RESELLER
+betweendigital.com, 44249, RESELLER
+opera.com, pub6920333082432, RESELLER, 55a0c5fd61378de3
+onairglobal.com, 12534797, RESELLER
+uis.mobfox.com, 1944, RESELLER, 5529a3d1f59865be
+yeahmobi.com, 5135128, RESELLER
+singularads.com, 554789, RESELLER
+improvedigital.com, 2332, RESELLER
+appush.com, 195402, RESELLER
+castify.ai, 1252012, RESELLER
+themediagrid.com, ZA2VPO, RESELLER, 35d5010d7789b49d
+carbonatix.com, 164931029, RESELLER
+epom.com, dbd063ad-c4e6-4ffd-8987-3e871937a8a9, RESELLER
+smartyads.com, 4244, RESELLER, fd2bde0ff2e62c5d
+media.net, 8CUNEOK3R, RESELLER
+ucfunnel.com, par-AA7D2439924BA478C7D72D8D2DE9244, RESELLER
+growintech.co, 36854, RESELLER
+aceex.io, 1187, RESELLER, b1cf3c874d5c6682
+adview.com, 53218885, RESELLER, 1b2cc038a11ea319
+ushareit.com, LC5a6e860b2be2187f, RESELLER
+cazhype.com, efe937780e95574250dabe07151bdc2332794, RESELLER
+Clistltd.com, 547785, RESELLER
+advangelists.com, cedebb6e872f539bef8c3f919874e9d7, RESELLER
+showheroes.com, 6016, RESELLER
+9dotsmedia.com, 1182, RESELLER, 45ff185b4c4e857d
+boostappi.com, 10012, RESELLER
+eliteappgrade.com, 312569, RESELLER
+playdigo.com, 1951, RESELLER
+Brightmountainmedia.com, 2686539, RESELLER
+intellectscoop.com, 434, RESELLER
+motorik.io, 65, RESELLER
+gamoshi.io, 267-b3609, RESELLER, 20e30b2ae1f670f2
+connectad.io, 386, RESELLER, 85ac85a30c93b3e5
+kelmak.com, 117-p007, RESELLER
+markappmedia.site, 0012998, RESELLER
+meitu.com, 568, RESELLER
+xapads.com, 99275, RESELLER
+olaex.biz, 100133, RESELLER
+consumable.com, 2001501, RESELLER, aefcd3d2f45b5070
+voisetech.com, 1004, RESELLER
+
+
+#Verve Ended
 
 
 #=================================================== HyperMX =================================================== 
