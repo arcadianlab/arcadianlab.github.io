@@ -5054,3 +5054,17 @@ openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 
 #end PremiumAds
+
+
+
+
+#=================================================== Jungle Technology =================================================== 
+
+adyugo.com, 1003, DIRECT
+thejungletechnology.com, 160703, DIRECT
+google.com, pub-9911740406682987, RESELLER, f08c47fec0942fa0
+
+#end Jungle Technology
+
+
+
